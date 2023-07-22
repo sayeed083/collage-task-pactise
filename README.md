@@ -45,7 +45,7 @@ We are seeking a talented MERN stack developer to create a user-friendly web app
 ### Responsiveness and Deployment:
 - [ ] Ensure the web application is fully responsive and functions flawlessly across various devices, including desktops, tablets, and mobile phones.
 
-- [ ] Utilize a CSS library for styling purposes, and you may consider using Tailwind CSS for its recommended usage.
+- [x] Utilize a CSS library for styling purposes, and you may consider using Tailwind CSS for its recommended usage.
 
 - [ ] Deploy the web application using platforms like Netlify, Vercel, or Firebase.
 

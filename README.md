@@ -6,7 +6,7 @@ We are seeking a talented MERN stack developer to create a user-friendly web app
 ## Task Details:
 - [x] Build a web application that enables college booking facilities. You are encouraged to use your own design to create a visually appealing and functional platform.
 
-- [ ] Implement a navigation bar with relevant options such as 'Home', 'Colleges', 'Admission', and 'My College' sections to provide easy navigation for users.
+- [x] Implement a navigation bar with relevant options such as 'Home', 'Colleges', 'Admission', and 'My College' sections to provide easy navigation for users.
 
 - [ ] Design the home page with three distinct sections (excluding the header and footer):
    - [ ] A search field under the navbar that allows users to search for college names. Upon searching, relevant college cards will be displayed.

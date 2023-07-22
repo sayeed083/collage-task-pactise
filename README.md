@@ -4,7 +4,7 @@
 We are seeking a talented MERN stack developer to create a user-friendly web application that allows general users to book college services and facilities. As the developer, you will be responsible for building the entire web application using your expertise in React.js, Node.js, MongoDB, and Express. Your creativity and design skills will play a crucial role in crafting an appealing user interface and enhancing user experience.
 
 ## Task Details:
-- [ ] Build a web application that enables college booking facilities. You are encouraged to use your own design to create a visually appealing and functional platform.
+- [x] Build a web application that enables college booking facilities. You are encouraged to use your own design to create a visually appealing and functional platform.
 
 - [ ] Implement a navigation bar with relevant options such as 'Home', 'Colleges', 'Admission', and 'My College' sections to provide easy navigation for users.
 

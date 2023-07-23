@@ -35,7 +35,7 @@ We are seeking a talented MERN stack developer to create a user-friendly web app
 
 - [x] Display the user's profile name after login.
 
-- [ ] Create a 404 route with a creative look for handling page not found scenarios.
+- [x] Create a 404 route with a creative look for handling page not found scenarios.
 
 ### Profile Route:
 - [x] Clicking the 'Profile Name' will lead users to the profile route where they can view their personal details.
